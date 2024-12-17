@@ -25,7 +25,7 @@ test_size = 0.1
 test_part = max(1, int(test_size * n))
 test_files, train_files = files[:test_part], files[test_part:]
 
-def make_count(sub, files)
+def make_count(sub, files):
     count = 0
     counts = {}
     for file in files:
