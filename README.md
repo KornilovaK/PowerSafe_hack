@@ -1,8 +1,8 @@
 # PowerSafe_hack
 
 ## Команда misis arbyz:
-* Екатерина Корнилова - MLE, CV, дизайнер, капитан
-* Крылов Александр - MLE, CV
+* [Екатерина Корнилова](https://github.com/KornilovaK) - MLE, CV, дизайнер, капитан
+* [Крылов Александр](https://github.com/realalexkrylov) - MLE, CV
 * Дмитрий Бусыгин - MLE, CV
 * Аксинья Харьюзова - дизайнер
 
